@@ -1,0 +1,7 @@
+/vendor
+/.vscode
+/.idea
+/.fleet
+.env
+.DS_Store
+**/.DS_Store
